@@ -23,7 +23,7 @@ DATA SOURCE
 RESULTS AND INSIGHTS
 - He made $101,782 on his biggest trading day.
 - He amassed a total profit of $516,124 in July.
-- His most traded and profitable quote was BTCUSD (You can't go wrong with Bitcoin😂).
+- His most traded and profitable quote was BTCUSD.
 - He had a win rate of 75%.
 
 CONTACT ME @
