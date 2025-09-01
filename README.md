@@ -1,4 +1,4 @@
-# Monthly-Performance-Dashboard
+# Monthly-Performance-Dashboard.
 
 PROJECT TITLE
 
